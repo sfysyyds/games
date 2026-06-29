@@ -49,6 +49,8 @@ links:
     uri: patreon:burrowsvn
   - name: .unofficial-version-zh
     uri: FGI-misc-page:Burrows-unofficial-l10n-zh-redir
+  - name: Unoffical Chinese patch (provided by 新位元汉化组)
+    uri: FGI-misc-page:Burrows-unofficial-l10n-zh-redir-New_Bit
 
 thumbnail: thumbnail.jpg
 
