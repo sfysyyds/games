@@ -33,6 +33,7 @@ tags:
     - work-in-process
   lang:
     - en
+    - zh-unofficial
   publish:
     - itchio
     - patreon
@@ -47,6 +48,10 @@ links:
     uri: https://nikkonator5000.itch.io/fire-on-the-mountain
   - name: .patreon
     uri: patreon:burrowsvn
+  - name: Unofficial Chinese patch (Bilibili)
+    uri: https://www.bilibili.com/opus/1232630758996181049
+  - name: Unofficial Chinese patch (Baidu Tieba)
+    uri: https://tieba.baidu.com/p/10918047034
 
 thumbnail: https://img.itch.zone/aW1nLzI4NTc0NjYzLnBuZw%3D%3D/original/N%2FgsHW.png
 
