@@ -1,0 +1,54 @@
+name: Fire on the Mountain
+
+brief-description: |
+  Fire on the Mountain is a linear furry visual novel set at Campsite 7 in Crestfall National Park. Follow the staff and visitors around a strange, neglected corner of the park while exploring an interactive map, playing minigames, and uncovering the mystery surrounding the off-limits Blackthroat Peak. Choices are optional and do not alter the main story.
+
+description: |
+  Welcome to Campsite 7, one of the strangest corners of Crestfall National Park. The rangers largely ignore it, the lakes come with dubious warnings, and Blackthroat Peak is forbidden for a reason.
+
+  Fire on the Mountain is a linear furry visual novel featuring minigames, an interactive map, and optional side conversations. Choices do not change the main narrative.
+
+  The game is safe for work, but is intended for mature audiences and includes themes involving sex, alcohol, drug use, violence, child endangerment, depression, and suicidal ideation.
+
+authors:
+  - name: Nikko
+    role: [ producer, screenwriter, programmer, artist, musician ]
+  - name: Blabel
+    standalone: true
+    role: [ programmer ]
+  - name: Eymon
+    role: [ screenwriter, musician ]
+  - name: Wattson
+    standalone: true
+    role: [ programmer ]
+
+tags:
+  type:
+    - visual-novel
+    - bara
+    - comedy
+  misc:
+    - freeware
+    - engine-renpy
+    - work-in-process
+  lang:
+    - en
+  publish:
+    - itchio
+    - patreon
+  platform:
+    - windows
+    - macos
+    - linux
+    - android
+
+links:
+  - name: .itch.io
+    uri: https://nikkonator5000.itch.io/fire-on-the-mountain
+  - name: .patreon
+    uri: patreon:burrowsvn
+
+thumbnail: https://img.itch.zone/aW1nLzI4NTc0NjYzLnBuZw%3D%3D/original/N%2FgsHW.png
+
+screenshots:
+  - https://img.itch.zone/aW1nLzI4NTc0NjYzLnBuZw%3D%3D/original/N%2FgsHW.png
